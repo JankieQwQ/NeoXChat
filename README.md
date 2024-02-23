@@ -1,6 +1,6 @@
 # XChat Robot
 
-XChat Robot is a convenient tool for quickly developing XChat bots. For detailed usage, please refer to the example code in `TestBot.py`.
+XChat Robot is a convenient tool for quickly developing XChat bots. For detailed usage, please refer to the example code in `src/HelloBot.py`.
 
 ## Important Notes
 
