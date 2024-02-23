@@ -6,7 +6,7 @@ import ssl
 
 class XChat:
     userset = False
-    JOIN_PACKET = {"cmd": "join", "client_key": "ZhangSoft_"}
+    JOIN_PACKET = {"cmd": "join", "client_key": "neoxchat"}
 
     def __init__(self, token, channel, nick, password="", headurl="https://xq.kzw.ink/imgs/tx.png"):
         self.channel = channel
